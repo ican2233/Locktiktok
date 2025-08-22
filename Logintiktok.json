@@ -6,6 +6,12 @@
     "allowOffline": true
   },
   {
+    "id": "9fc053733d409958",
+    "key": "user",
+    "expiresAt": "2030-05-30",
+    "allowOffline": true
+  },
+  {
     "id": "ali456",
     "key": "key2",
     "expiresAt": "2025-06-15",
